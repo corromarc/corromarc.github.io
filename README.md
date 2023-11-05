@@ -2,7 +2,7 @@
 
 Qui serà l'usuari final:
 
-Com la pràctica es basava a fer un currículum l'usuari d'aquest document està pensat que siguin empreses del sector de la informàtica amb la intenció de reclutar enginyers informàtics. En ser un currículum normal ja està destinat a les persones de recursos humans per no complicar els hi la feina.
+Com la pràctica es basava a fer un currículum l'usuari d'aquest document està pensat que siguin empreses del sector de la informàtica amb la intenció de reclutar enginyers informàtics. En ser un currículum normal ja està destinat a les persones de recursos humans per no complicar-los-ho la feina.
 
 Informació de l'arquitectura:
 
